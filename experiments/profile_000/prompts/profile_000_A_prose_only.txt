@@ -1,0 +1,35 @@
+You are evaluating a conceptual packet.
+Preserve distinctions carefully.
+Do not collapse adjacent concepts.
+When uncertain, say what remains uncertain.
+Answer the test questions at the end.
+
+
+CONCEPTUAL PACKET
+
+- decorative_context: Extra text, labels, metadata, summaries, or framing that may improve readability but does not necessarily constrain inference.
+- constraint_bearing_context: Context that restricts or guides interpretation by binding concepts to roles, boundaries, dependencies, recurrence paths, or coherence requirements.
+- shared_cell_recurrence: A recurrent contextual grouping in which local units share constraint-bearing structure across repeated roles or cells.
+- frontier_exposure: Exposure to boundary, edge, hard-case, or transition regions where coherence failure becomes easier to detect.
+- tail_exposure: Exposure to low-frequency, peripheral, or non-central cases that test whether structure survives away from easy central examples.
+- mixed_role_organization: A contextual organization in which elements participate in multiple functional roles rather than appearing as flat isolated facts.
+- global_coherence_failure: A failure of consistency across the whole structure, even when local views appear plausible.
+- local_mimicry: The ability to imitate a local pattern or shell profile without preserving global structure.
+- shuffle_null_survival: Persistence of a signal after comparison against shuffled controls, suggesting that organization matters beyond raw content volume.
+- trusted_symbolic_surface: A stable symbolic identity layer that preserves named conceptual objects before interpretation begins.
+
+CLAIMS
+
+- decorative_context_may_not_constrain_inference: Decorative context may add readability or metadata without actually constraining the inference path.
+- shared_cell_recurrence_can_create_nontrivial_signal: Shared-cell recurrence may create a nontrivial signal because it organizes local units through repeated constraint-bearing context.
+- frontier_exposure_marks_boundary_cases: Frontier exposure marks hard or boundary cases where global coherence failure can become more visible.
+- global_coherence_failure_is_not_local_pattern_failure: Global coherence failure is not the same as local pattern failure; a local view can mimic the target while the whole structure fails.
+- trusted_surface_is_identity_layer_not_meaning_itself: A trusted symbolic surface preserves identity but does not define meaning by itself.
+
+TEST QUESTIONS
+
+1. Explain the difference between decorative context and constraint-bearing context.
+2. Give an example where local mimicry succeeds but global coherence fails.
+3. Explain why frontier exposure might reveal coherence failure.
+4. Is a trusted symbolic surface the same thing as meaning? Answer carefully.
+5. Which concepts should not be collapsed into each other?
